@@ -1,7 +1,3 @@
-# Chess-AI
-A fairly simple chess program, implementing in C# in the Unity game engine.
- 
-[Watch video](https://www.youtube.com/watch?v=U4ogK0MIzqk)
-
-[Download and play](https://sebastian.itch.io/chess-ai)
-![Image](https://github.com/SebLague/Images/blob/master/Chess.png)
+# Portal Chess
+An attemp at implementing the variant as thought of by [wika57](https://www.youtube.com/watch?v=Zq4pJw_nk_0&feature=youtu.be&ab_channel=wika57)
+Built on top of Sebastian Lague's [Chess-AI](https://github.com/SebLague/Chess-AI)
